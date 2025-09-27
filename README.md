@@ -1,6 +1,6 @@
 # postgrad-program
 
-This repository contains a collection of projects I completed during my Post Graduate Program in Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications with Great Learning.
+This repository contains a collection of projects I completed during my Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications with Great Learning.
 
 ## Projects
 
