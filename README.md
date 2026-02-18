@@ -4,14 +4,21 @@ This repository contains a collection of projects I completed during my Post Gra
 
 ## Projects
 
-- **FoodHub**  
-Perform an exploratory data analysis and provide actionable insights for a food aggregator company to get a fair idea about the demand of different restaurants and cuisines, which will help them enhance their customer experience and improve the business
+- **FoodHub**  : Perform an exploratory data analysis and provide actionable insights for a food aggregator company to get a fair idea about the demand of different restaurants and cuisines, which will help them enhance their customer experience and improve the business
 > See the notebook: [`ecen360_project.ipynb`](./ecen360_project.ipynb)
 
-- **Personal Loan Campaign**
-Identify bank customers with a high likelihood of purchasing a loan, you need to analyze the provided data to understand key customer attributes influencing loan acquisition. With this analysis, build a predictive model that captures patterns and customer characteristics, which will help the bank effectively target potential loan buyers, improving marketing efforts and increasing conversion rates.
+- **Personal Loan Campaign** : Identify bank customers with a high likelihood of purchasing a loan, you need to analyze the provided data to understand key customer attributes influencing loan acquisition. With this analysis, build a predictive model that captures patterns and customer characteristics, which will help the bank effectively target potential loan buyers, improving marketing efforts and increasing conversion rates.
 > See the notebook: [`ecen360_project.ipynb`](./ecen360_project.ipynb)
 
+- **ReneWind** : The project aims to create and improve classification models for ReneWind's wind turbine generator failures, enabling proactive maintenance and cost reduction. The models use sensor data to identify potential failures, minimizing false negatives and ensuring turbine repairs before breakdown. The final models are chosen based on their ability to accurately predict failures, providing insights and recommendations to improve maintenance strategies and cost efficiency in wind energy production.
+
+- **Employee Promotion Prediction** : Analyze the data provided and utilize the different attributes of employees of an organization to build a predictive model for determining if an employee is eligible for promotion or not.
+
+- **HelmNet** : SafeGuard Corp plans to develop an automated image analysis system to detect whether workers are wearing safety helmets. This system will improve safety enforcement, ensuring compliance and reducing the risk of head injuries. By automating helmet monitoring, SafeGuard aims to enhance efficiency, scalability, and accuracy, ultimately fostering a safer work environment while minimizing human error in safety oversight.
+
+- **Stock Market News Sentiment Analysis and Summarization** : The Data Science and AI team at the startup is tasked with analyzing data and developing an AI-driven sentiment analysis system to automatically process and evaluate news articles for market sentiment. The system will summarize news on a weekly basis to improve the accuracy of stock price predictions and optimize investment strategies. This will provide financial analysts with actionable insights, supporting more informed investment decisions and enhancing client outcomes.
+
+- **SuperKart** :
 
 ## Author
 
