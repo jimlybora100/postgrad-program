@@ -5,7 +5,7 @@ This repository contains a collection of projects I completed during my Post Gra
 ## Projects
 
 - **FoodHub**  : Perform an exploratory data analysis and provide actionable insights for a food aggregator company to get a fair idea about the demand of different restaurants and cuisines, which will help them enhance their customer experience and improve the business
-> See the notebook: [`python-foundations/FullCode_FoodHub.ipynb`](Code)
+> See the notebook: [`Code`](python-foundations/FullCode_FoodHub.ipynb)
 
 - **Personal Loan Campaign** : Identify bank customers with a high likelihood of purchasing a loan, you need to analyze the provided data to understand key customer attributes influencing loan acquisition. With this analysis, build a predictive model that captures patterns and customer characteristics, which will help the bank effectively target potential loan buyers, improving marketing efforts and increasing conversion rates.
 > See the notebook: [`ecen360_project.ipynb`](./ecen360_project.ipynb)
